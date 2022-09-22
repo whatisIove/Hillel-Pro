@@ -1,4 +1,4 @@
-package ua.ithillel.lesson4;
+package ua.ithillel.lesson5;
 
 
 abstract public class University implements UniversityInfo {

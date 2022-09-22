@@ -1,4 +1,4 @@
-package ua.ithillel.lesson4;
+package ua.ithillel.lesson5;
 
 abstract public class Society extends University implements ActionSociety {
 

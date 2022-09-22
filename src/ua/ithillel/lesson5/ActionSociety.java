@@ -1,4 +1,4 @@
-package ua.ithillel.lesson4;
+package ua.ithillel.lesson5;
 
 public interface ActionSociety extends Events {
 
